@@ -1,0 +1,54 @@
+img {
+    border-radius: 50%;
+    height: 200px;
+    width: 200px;
+}
+
+/* table {
+    width: 100%;
+}
+table, th, td {
+    border: 1px solid black;
+} */
+
+.button{
+    background-color: navajowhite;
+}
+
+.contact{
+    background-color: cadetblue;
+}
+
+.leon {
+    border: solid #FF6969 3px;
+}
+
+.profile {
+    border-radius: 50%;
+}
+
+.header{
+    background-color: #FF6969;
+}
+
+.middle {
+    background-color: palevioletred;
+}
+
+body {
+    margin: 0;
+}
+
+h3 {
+    margin-top: 0;
+}
+
+hr {
+    /* background-color: white; */
+    border-style: dotted none none;
+    /* height: 0px; */
+    width: 30%;
+    border-color: #141E46;
+    border-width: 5px;
+    margin-bottom: 0;
+}
