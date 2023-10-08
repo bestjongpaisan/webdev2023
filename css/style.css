@@ -20,11 +20,7 @@ h2 {
 }
 
 
-img {
-    /* margin: auto;
-    display: block; */
-    
-}
+
 
 span {
     text-decoration: underline;
@@ -45,6 +41,7 @@ span {
 
 .skills{
     padding: 100px;
+    background-color: #A2A378;
 }
 
 .skill-row{
@@ -61,16 +58,22 @@ span {
     float: left;
 }
 
-.img-ai{
+.img-angular{
     width: 10%;
     margin-left: 20px;
     float: right;
 }
 
-.img-react{
+.img-typescript{
     width: 10%;
     margin-right: 20px;
     float: left;
+}
+
+.img-python{
+    width: 10%;
+    margin-left: 20px;
+    float: right;
 }
 
 .bottom-cloud {
@@ -90,3 +93,39 @@ span {
     padding-top: 100px;
     position: relative;
 }
+
+.img-aticon {
+    width: 1%;
+}
+
+.history{
+    padding: 100px;
+    background-color: #79AC78;
+}
+
+.history-row{
+    width: 30%;
+    margin: 50px auto;
+    text-align: left;
+    border-style: solid;
+    padding: 10px;
+}
+
+.img-7-11{
+    width: 10%;
+    margin-right: 20px;
+    float: left;
+}
+
+.img-gosoft{
+    width: 10%;
+    margin-left: 20px;
+    float: right;
+}
+
+.navbar {
+    display: flex;
+    justify-content: center;
+    background-color: #83764F;
+    padding: 10px 0;
+  }
